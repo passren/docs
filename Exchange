@@ -1,0 +1,5 @@
+PYDYNAMODB_QUERY_DB=sqlite # only support sqlite3
+PYDYNAMODB_QUERY_DB_TYPE=memory # memory | file
+PYDYNAMODB_QUERY_DB_PATH=/querydb # path to store db files (only available for file)
+PYDYNAMODB_QUERY_DB_RELOAD_INTERVAL=30 # seconds of data reloading (only available for file)
+PYDYNAMODB_QUERY_CACHE_PATH=/caches # path to store caches (only available for file)
