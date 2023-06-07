@@ -1,4 +1,0 @@
-PYDYNAMODB_QUERYDB=sqlite # Only support sqlite3
-PYDYNAMODB_QUERYDB_URL=/querydb # Path to store db files (only available for file)
-PYDYNAMODB_QUERYDB_LOAD_BATCH_SIZE=200 # Batch size when data load into query db
-PYDYNAMODB_QUERYDB_EXPIRE=30 # Expired time of data (seconds)
