@@ -5,5 +5,3 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passren" />
 </a>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=passren)](https://github.com/anuraghazra/github-readme-stats)
